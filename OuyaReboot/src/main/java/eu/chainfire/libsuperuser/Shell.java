@@ -31,6 +31,9 @@ import android.os.Looper;
 
 import eu.chainfire.libsuperuser.StreamGobbler.OnLineListener;
 
+import nl.frankkie.ouyareboot.BuildConfig;
+
+
 /**
  * Class providing functionality to execute commands in a (root) shell 
  */
